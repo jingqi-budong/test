@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2017/8/30 20:20
-# @Author  : 强子
+# @Author  : 
 # @File    : cons.py
 # @Software: PyCharm
 
